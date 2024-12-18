@@ -1,7 +1,7 @@
 # Wikipedia Query App 🚀
 
 **A Streamlit-based app that fetches information from Wikipedia, reads the content aloud, and generates a PDF file for download.**  
-
+![Ludo Board Game](https://github.com/SahanG450/LUDO_Game-up-/blob/aa035ed3f25a60a5326055d152aee0b1485b2f05/DALL%C2%B7E%202024-12-18%2018.27.03%20-%20A%20vibrant%20and%20detailed%20illustration%20of%20a%20traditional%20Ludo%20board%20game%20setup%2C%20viewed%20from%20above.%20The%20board%20has%20four%20colorful%20quadrants_%20red%2C%20blue%2C%20green.webp)
 ## Overview 🌟
 
 This app allows users to:
